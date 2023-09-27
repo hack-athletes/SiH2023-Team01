@@ -1,0 +1,5 @@
+>>> GOOGLE COLAB >>>
+this file contains our google colab plant and crop disease detection file. 
+
+
+https://colab.research.google.com/drive/1LtCMKVjmfYNEI-E8Tw5gbnpNi04nXeuc?usp=sharing
